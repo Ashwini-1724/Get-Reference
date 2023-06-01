@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T04:48:08 IST" name="Suite" finished-at="2023-05-31T04:48:18 IST" duration-ms="10097">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T04:48:08 IST" name="Test" finished-at="2023-05-31T04:48:18 IST" duration-ms="10097">
+      <class name="TestClasspackage.GetReference3">
+        <test-method signature="execute()[pri:0, instance:TestClasspackage.GetReference3@68dc098b]" started-at="2023-05-31T04:48:15 IST" name="execute" finished-at="2023-05-31T04:48:18 IST" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- TestClasspackage.GetReference3 -->
+      <class name="TestClasspackage.GetReference">
+        <test-method signature="execute()[pri:0, instance:TestClasspackage.GetReference@4f6f416f]" started-at="2023-05-31T04:48:08 IST" name="execute" finished-at="2023-05-31T04:48:11 IST" duration-ms="3165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- TestClasspackage.GetReference -->
+      <class name="TestClasspackage.GetReference2">
+        <test-method signature="execute()[pri:0, instance:TestClasspackage.GetReference2@488d1cd7]" started-at="2023-05-31T04:48:11 IST" name="execute" finished-at="2023-05-31T04:48:15 IST" duration-ms="3886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- TestClasspackage.GetReference2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
